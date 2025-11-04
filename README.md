@@ -43,7 +43,7 @@
 <summary><strong>Eastern Bank PLC</strong> — <em>Manager, ICT Division (Senior Principal Officer)</em> | Jul 2025 – Present</summary>
 
 - **bKash DPS Integration** *(New Project)*  
-  → Built **API + Oracle stored procedures** per bKash specs → **Reduced settlement latency by 40%**  
+  → Built **API + Oracle stored procedures** per bKash specs
 - **Branch Form Automation (BFA)** *(New Project)*  
   → Full-stack **.NET 9 API + Angular 20** client for branch operations  
 - **Import Finance Analytics (IFA)** *(Old Project)*  
