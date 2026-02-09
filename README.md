@@ -139,9 +139,9 @@
 
 | Degree | Institute | Year | Result |
 |-------|-----------|------|--------|
-| **BSc in Computer Science & Engineering** | United International University (UIU), Dhaka | 2013–2017 | CGPA 2.79/4.00 |
-| **HSC (Science)** | Milestone College, Dhaka | 2012 | GPA 4.80/5.00 |
-| **SSC (Science)** | Char-Mohespur High School, Magura | 2010 | GPA 4.75/5.00 |
+| **BSc in Computer Science & Engineering** | United International University (UIU), Dhaka | 2013–2017 |
+| **HSC (Science)** | Milestone College, Dhaka | 2012 |
+| **SSC (Science)** | Char-Mohespur High School, Magura | 2010 |
 
 ---
 
