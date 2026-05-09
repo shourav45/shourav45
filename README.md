@@ -37,7 +37,7 @@
 
 ---
 
-## Professional Experience (8.5+ Years)
+## Professional Experience (9 Years)
 
 <details>
 <summary><strong>Eastern Bank PLC</strong> — <em>Manager, ICT Division (Senior Principal Officer)</em> | Jul 2025 – Present</summary>
